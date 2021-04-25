@@ -12,16 +12,16 @@ command:
 	
 How to run: 
 -----------
-1.Install a python library using pip command.
-2.open cmd and type "pip install pysqlite3"
-3.Once done. Keep 4 files in the folder.i.e. 
-	-__init__.py
-	-main.py
-	-sqlite_database.py
-	-application_user_info.db
-4. open cmd in the folder path.
-5. type "python __init__.py
-6. Follow the on screen instruction.
+	1.Install a python library using pip command.
+	2.open cmd and type "pip install pysqlite3"
+	3.Once done. Keep 4 files in the folder.i.e. 
+		-__init__.py
+		-main.py
+		-sqlite_database.py
+		-application_user_info.db
+	4. open cmd in the folder path.
+	5. type "python __init__.py
+	6. Follow the on screen instruction.
 
 
 Assumptions:
